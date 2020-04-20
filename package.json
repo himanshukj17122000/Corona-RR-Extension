@@ -5,8 +5,11 @@
   "author": {
     "name": "Himanshu Jain"
   },
+  "repository": {
+    "url": "https://gitlab.oit.duke.edu/hkj4/vscode_corona_updates"
+  },
   "description": "Provides information about the number of recovered patients in the country provided by the user",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.44.0"
   },
